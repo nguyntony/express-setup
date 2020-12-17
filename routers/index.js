@@ -1,4 +1,4 @@
-// this file will require from other router files and than have an export statement
+// this file will require from other router files and then have an export statement
 
 // EXAMPLE
 // module.exports = {
