@@ -1,5 +1,7 @@
 # Basic Express App Starter
 - - - -
+
+### Housekeeping
 When cloning this repo, it will create a directory with the name “express-setup”, knowing that,  you can clone this repo where you need it then rename the directory from “express-setup” to whatever you need. You can do that in the terminal by `cd ..` then `mv express-setup/ {newName/}`
 
 TLDR:  Clone this repo into the parent directory that you want, you should not make a directory for your app because cloning this repo will create one, make sure that you are one level up then `mv express-setup/ {newName/}`
